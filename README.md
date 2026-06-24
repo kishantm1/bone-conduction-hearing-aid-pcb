@@ -1,6 +1,6 @@
 # Wearable Bone Conduction Hearing Aid / Headphone PCB  
 
-Wearable bone-conduction hearing aid headphone PCB based on the ESP32-S3, integrating an I2S MEMS microphone input, I2S audio amplifier output, LiPo battery charging, USB-C power/programming support, and a bone-conduction transducer interface. This project focused on end-to-end wearable audio hardware development, including BOM creation, schematic design, PCB layout, and board assembly through JLCPCB. Firmware is underway.
+Wearable bone-conduction hearing aid headphone PCB based on the ESP32-S3, integrating an I2S MEMS microphone input, I2S audio amplifier output, LiPo battery charging, USB-C power/programming support, and a bone-conduction transducer interface. This project focused on end-to-end wearable audio hardware development, including BOM creation, schematic design, PCB layout, and board assembly through JLCPCB. 
 
 ## Key Features
 
