@@ -26,18 +26,26 @@ The board is centered around the ESP32-S3 microcontroller and integrates audio i
 
 ### Power
 
+<img src="images/Bone%20Conduction%20Power%20Schematic.png" alt="Bone conduction power schematic" width="800">
 
 ### Processor
 
+<img src="images/Bone%20Conduction%20Processor%20Schematic.png" alt="Bone conduction processor schematic" width="800">
 
 ### Audio
 
+<img src="images/Bone%20Conduction%20Audio%20Schematic.png" alt="Bone conduction audio schematic" width="800">
 
 ## Layout
 
 The 2-layer PCB layout was designed to fit the audio input/output, power, charging, and programming circuitry into a compact wearable form factor.
 
+<img src="images/Bone%20Conduction%20Layout.png" alt="Bone conduction PCB layout" width="700">
+
 ## 3D View
 
+<img src="images/Bone%20Conduction%203D%20Viewer.png" alt="Bone conduction PCB 3D view" width="600">
 
 ## Assembled Board
+
+<img src="images/Bone%20Conduction%20Board.png" alt="Received assembled bone conduction PCB" width="500">
